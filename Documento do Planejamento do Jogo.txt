@@ -1,0 +1,80 @@
+Resumo do Projeto:
+
+Um jogo paródia de Sonic protagonizados por personagens originais cujo o seu cenário é ambientado em um cidade fictícia que faz alusão a metropoli da vida real.
+
+O que realmente faria esse jogo ser especial em comparação com os outros projetos, é o fato de que as plataformas seriam nescladas com o cenário.
+
+
+
+
+Gênero:
+
+Um jogo de mundo aberto do gênero plataforma 2d com movimentação semelhante aos jogos antigos de Sonic mas com mecânicas de Beat Em' Up e Shooters 2d
+
+
+
+Controles:
+
+O personagem poderia andar para a direita e esquerda ("A/D ou setinhas"), pular ("espaço"), aguachar ("S ou setinha para baixo") e dá o spin dash ("segurar a botão de aguachar e depois pressionar o botão de pulo")
+
+O Jogador teria um celular que compriria o mesmo papel de um "menu" dentro do jogo.
+
+O jogador também teria um iventario, mas este poderia ser aberto através de um botão ou do celular.
+
+Sobre o manuseio de armas e no combate de maneira geral, o jogador poderia optar por usar o mouse ou os botões do teclado.
+
+Não tenho uma ideia bem definida de qual seria a melhor opção, então acho que seria melhor se o jogador tivesse a liberdade de configurar todos os controles do jogo.
+
+A unica dica que poderia dar é que o jogo precisa de um botão de soco ("que também seria o mesmo botão para atirar"), um botão de chute, e um botão para pegar coisas ("que também seria o mesmo botão usado para aguarrar os iminigos")
+
+
+
+
+Iminigos ou NPC:
+
+Teriamos dois tipos de NPCs, o pacificos que seriam os pedestres, e os agressivos que seriam os iminigos.
+
+Dos pedestres seriam dois tipos, os Humnoides ("humanos e robôs") e os animais ("que também antropomórficos")
+
+Já dos iminigos seriam 3 classes diferentes, o iminigos que só atacam de perto em combate corpo a corpo, os iminigos que atacariam a longa distância e os iminigos que seriam capazes de fazerem as duas coisas.
+
+OBS - Os iminigos além se serem classificados de maneiras diferentes, eles também fariam partes de ganguês e organizações criminosas diferentes.
+
+
+
+
+Objetos do Jogo:
+
+Dentro do jogo, teriamos 3 tipos de objetos da qual o jogador poderia interagir.
+
+Os coletáveis, os itens e o objetos estáticos que poderiam ser quebrados para o jogador conseguir itens ou usados como arma ("sendo empurrados ou jogados, algo semelhante aos barrils do Dokey Donk Country")
+
+Os coletaveis seriam algo parecido com os que vemos nos GTA mais antigos, com o diferencial de que eles também poderiam serem utilizados como itens.
+
+Já os itens nós temos 3 tipos, as armas, os itens úteis ("que o jogador poderia usar como munição ou como cura"), e os itens sem utilidade ("na maioria das vezes sendo algum lixo ou objeto aleatório que o jogador poderia usar para cumprir uma missão e etc.")
+
+Entre as armas, teriamos no total
+
+Uma granada, um coquetel molotov, uma faca, um martelo, cassetete, Pedaço de madeira, 2 revolvers, 4 pistolas, 3 escopetas, 3 rifles ("sendo um de longa distância"), um lança-granadas, um lança-foguetes.
+
+
+
+
+Quantidade de Niveis do jogo:
+
+Esse aqui seria o mapa do jogo
+https://www.deviantart.com/caracomumelega1/art/Nortelandia-Mapa-14-03-2025-1181383136
+
+Cada um dos locais dele representaria um bairro ou local, e cada um desses locais teriam entre 3 ou 2 níveis no mapa.
+
+Fiz os meus calculos baseado no quanto de fases que cada local teria, e deu no total 214.
+
+
+
+
+Referências e Inspirações:
+
+Sonic 1, Sonic 2, Sonic 3, Eletric man 2, Dad 'n' Me, Donkey Kong Country, GTA 3, GTA Vice City, GTA San Andreas.
+
+
+
